@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"github.com/araddon/gou"
 	"github.com/bmizerany/assert"
-	"github.com/mattbaird/elastigo/api"
+	"github.com/plurodel/elastigo/api"
 	"log"
 	"strconv"
 	"testing"
